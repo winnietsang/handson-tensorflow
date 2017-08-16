@@ -1,2 +1,2 @@
-# handson-tensorflow
-Code for Hands-On TensorFlow Programming class
+# Hands-On TensorFlow Programming
+Sequence of code for TensorFlow Programming class
